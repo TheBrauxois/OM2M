@@ -1,0 +1,4 @@
+<m2m:ae xmlns:m2m="http://www.onem2m.org/xml/protocols" rn="AE_NAME">
+    <api>app-test</api>
+    <rr>false</rr>
+</m2m:ae>

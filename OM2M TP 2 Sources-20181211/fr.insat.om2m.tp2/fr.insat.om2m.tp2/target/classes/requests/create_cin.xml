@@ -1,0 +1,4 @@
+<m2m:cin xmlns:m2m="http://www.onem2m.org/xml/protocols">
+    <cnf>text/plain</cnf>
+    <con>This is a test</con>
+</m2m:cin>
